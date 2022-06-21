@@ -117,6 +117,7 @@ CPU가 1개이며 코어가 1개밖에 없던 시절에는 구조가 매우 단�
 raid의 개념과 종류는 리눅스 학습 파트 및 개인 동기화 내용에서 확인 가능합니다^^
 
 RAID 학습 ([https://www.notion.so/22-04-22-RAID-457c0ad9dd304952bdd4de009b06b109](https://www.notion.so/22-04-22-RAID-457c0ad9dd304952bdd4de009b06b109))
+리눅스파트올려야댐...
 
 ### 스토리지 연결 방식 - DAS, NAS, SAN
 
