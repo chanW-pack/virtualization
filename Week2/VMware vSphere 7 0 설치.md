@@ -12,7 +12,7 @@ vSphere 테스트 환경 구현에 들어가기 앞서 기기의 제약사항이
 
 (메모리는 가상 메모리 설정으로 16GB 이상인 것 처럼 속일 수 있다. 자세한 내용은 후술함)
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/175814363-094c2903-15f6-4366-9198-e46879ff7059.png)
 
 > 대략적인 환경 구성도
 > 
@@ -25,9 +25,9 @@ vSphere 테스트 환경 구현에 들어가기 앞서 기기의 제약사항이
 
 ## VMware Workstation Pro 16 평가판 다운로드
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/175814365-e03f46d4-3c10-4315-acba-b4bc1b4a4583.png)
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/84123877/175814388-8cacdab2-f209-4f14-9a3a-a35b6b22bfe4.png)
 
 > VMware Workstation 16 pro 다운로드 및 설치
 > 
@@ -40,23 +40,23 @@ vSphere 테스트 환경 구현에 들어가기 앞서 기기의 제약사항이
 
 ## VMware ESXi 설치
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/84123877/175814392-87b268f4-b1d2-49b0-89f8-dd0b543d2e56.png)
 
 > vSphere, vCenter 등 ISO 파일들
 > 
 
 공식 홈페이지를 통해 ISO 파일들을 준비한다.
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/84123877/175814393-152d758b-c54d-49ea-b5c9-1ff83879c6d8.png)
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/84123877/175814396-38a7b10d-63b4-4d1e-9630-4839f2571d9a.png)
 
 > OS는 미적용인 상태로 ESXi 가상머신을 생성했다.
 > 
 
 하이퍼바이저라고 부르며, 이는 가상화 환경을 구축하기 위해 물리적인 서버 위에 설치되는 최소한의 기능만을 탑재한 OS 라고 볼 수 있다. 
 
-![캡처.PNG](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/%EC%BA%A1%EC%B2%98.png)
+![Untitled 6](https://user-images.githubusercontent.com/84123877/175814398-e78f6429-28cb-4635-90b8-6852a37bfcf4.png)
 
 > ESXi 가상머신 2개, vCenter가 될 Windows 가상머신 1개 생성
 > 
