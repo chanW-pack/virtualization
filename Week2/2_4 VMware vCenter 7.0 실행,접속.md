@@ -38,12 +38,12 @@
 
 ![Untitled 47](https://user-images.githubusercontent.com/84123877/177450090-c36e570a-d00b-4ae9-badb-b63154e6a787.png)
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2048.png)
+![Untitled 48](https://user-images.githubusercontent.com/84123877/177450248-cbb9cdac-2798-4cae-acec-9a8ce2ede370.png)
 
 > ESXi 호스트 추가 완료
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2049.png)
+![Untitled 49](https://user-images.githubusercontent.com/84123877/177450252-8d766173-4359-4207-a2f6-55f323aa2a37.png)
 
 > ESXi_2 호스트도 추가 완료
 > 
@@ -70,11 +70,4 @@ SSO 도메인 설정 시 기본값 (vshpere.local) 이 아닌 다른값으로 �
 </aside>
 
 (본인은 이 경우를 몰라 재설정을 위해 다시 설치하였다...)
-
----
-
-## Ubuntu 가상 서버 설치
-
-[Ubuntu 가상 서버 설치](https://www.notion.so/Ubuntu-b6dd2aaa61ef46c79670edd4259d3343)
-
 ---
