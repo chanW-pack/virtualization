@@ -47,7 +47,7 @@
 > vCenter Server 서버 접속 시에 사용될 포트 번호 (기본값으로 두었다.)
 > 
 
-![11.PNG](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/11.png)
+![11](https://user-images.githubusercontent.com/84123877/177449402-56dfbe85-76af-4a0a-8c09-24f5ba1239dd.png)
 
 > 1단계 설치를 진행한다.
 > 
