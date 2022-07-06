@@ -61,52 +61,52 @@ vSphere 테스트 환경 구현에 들어가기 앞서 기기의 제약사항이
 > ESXi 가상머신 2개, vCenter가 될 Windows 가상머신 1개 생성
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/84123877/177438138-a856da06-34fa-4f04-a68b-4e7e70534db0.png)
 
 > CD/DVD 에 ESXi ISO 파일을 넣어 주고 실행한다.
 > 
 
 ESXi installer 가 실행되면서 설치가 자동으로 진행된다.
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%207.png)
+![Untitled 7](https://user-images.githubusercontent.com/84123877/177438133-ed5bfe27-a404-4e28-b936-6713370b53ed.png)
 
 이 화면에서는 PC의 사양을 볼 수 있고 파일을 자동으로 로드한다.
 
 위 사양에서 RAM을 12.1GB 할당한 것을 볼 수 있다.
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%208.png)
+![Untitled 8](https://user-images.githubusercontent.com/84123877/177438156-720701ce-118d-44ee-bc78-658cee233caf.png)
 
 > Enter를 눌러서 설치를 진행한다.
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%209.png)
+![Untitled 9](https://user-images.githubusercontent.com/84123877/177438159-d0dea14f-968f-4895-ad92-6461bd053ef2.png)
 
 > F11를 눌러서 라이센스를 동의하고 계속 진행한다.
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2010.png)
+![Untitled 10](https://user-images.githubusercontent.com/84123877/177438161-bcc09079-a461-44a8-a9f2-5175835023a5.png)
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2011.png)
+![Untitled 11](https://user-images.githubusercontent.com/84123877/177438164-1fd99ea6-1b6f-4a88-bc2c-f8fb6f967014.png)
 
 > 스캐닝을 진행하고 난 후 설치할 저장소를 선택한다. 현재는 하나밖에 없으므로 Enter로 넘어간다.
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2012.png)
+![Untitled 12](https://user-images.githubusercontent.com/84123877/177438166-7b58a462-c29e-47c0-999a-76792ee7aa53.png)
 
 > 키보드 레이아웃 설정창이다. 한글은 없으므로 기본값으로 선택하고 넘어간다.
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2013.png)
+![Untitled 13](https://user-images.githubusercontent.com/84123877/177438168-e970559d-19af-45da-95fd-5459357e0fcb.png)
 
 > root 계정의 패스워드 설정이다. 최소 7자 이상이 되어야 한다.
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2014.png)
+![Untitled 14](https://user-images.githubusercontent.com/84123877/177438171-1cb0b109-fe10-4019-ba78-b3910372e8fc.png)
 
 > F11를 눌러서 설치를 계속한다. 설치중에는 기다려주면 된다.
 > 
 
-![Untitled](VMware%20vSphere%207%200%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20241bfdc0e48d46bd8f5be2899f60c334/Untitled%2015.png)
+![Untitled 15](https://user-images.githubusercontent.com/84123877/177438173-c171af77-8b59-4e23-abea-cb1066364d88.png)
 
 > 설치가 완료되었다. Enter를 눌러서 재부팅을 진행한다.
 > 
