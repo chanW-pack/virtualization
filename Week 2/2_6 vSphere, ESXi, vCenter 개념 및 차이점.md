@@ -6,11 +6,11 @@ VMware 가상화 플랫폼을 사용하고 있는 사람이라면 한번쯤은 �
 
 ## 전체적인 구성
 
-![Untitled](vSphere,%20ESXi,%20vCenter%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B7%20a4d431c70b76474ba603b3cb9692577e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/177451532-005eee5e-1573-463d-b1e0-f9d804403b94.png)
 
 ## ESXi
 
-![Untitled](vSphere,%20ESXi,%20vCenter%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B7%20a4d431c70b76474ba603b3cb9692577e/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/177451527-b7d54e1e-97c1-41b3-9168-1a8b6cc05945.png)
 
 **ESXi는 하이퍼바이저 (Hypervisor) 이며**, 가상화 환경에서 가장 중요한 역할을 맡고 있다고 볼 수 있다. 
 
