@@ -16,3 +16,7 @@
   - vSphere 가상 네트워크 스위치의 특징
 
 ## Week 2
+
+- [VMware vSphere 7.0 설치](https://github.com/chanW-pack/virtualization/blob/main/Week%202/2_1%20VMware%20vSphere%207.0%20%EC%84%A4%EC%B9%98.md)
+- [VMware vSphere 7.0 설치_2](https://github.com/chanW-pack/virtualization/blob/main/Week%202/2_2%20VMware%20vSphere%207.0%20%EC%84%A4%EC%B9%98%202.md)
+- [VMware vCenter 7.0 설치](https://github.com/chanW-pack/virtualization/blob/main/Week%202/2_3%20VMware%20vCenter%207.0%20%EC%84%A4%EC%B9%98.md)
