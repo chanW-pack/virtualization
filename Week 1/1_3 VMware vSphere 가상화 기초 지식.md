@@ -116,7 +116,7 @@ CPU가 1개이며 코어가 1개밖에 없던 시절에는 구조가 매우 단�
 
 raid의 개념과 종류는 리눅스 학습 파트 및 개인 동기화 내용에서 확인 가능합니다^^
 
-RAID 학습 (Linux RAID 학습 페이지](https://github.com/chanW-pack/Linux_OS/blob/main/Linux_ubuntu/Week%202/2_3%20RAID%20Lunear%2C%200%2C%201%2C%205%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%EB%AC%B8%EC%A0%9C%20%EB%B0%9C%EC%83%9D%20%ED%85%8C%EC%8A%A4%ED%8A%B8%2C%20%EC%9B%90%EC%83%81%20%EB%B3%B5%EA%B5%AC.pdf)
+RAID 학습 [Linux RAID 학습 페이지](https://github.com/chanW-pack/Linux_OS/blob/main/Linux_ubuntu/Week%202/2_3%20RAID%20Lunear%2C%200%2C%201%2C%205%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%EB%AC%B8%EC%A0%9C%20%EB%B0%9C%EC%83%9D%20%ED%85%8C%EC%8A%A4%ED%8A%B8%2C%20%EC%9B%90%EC%83%81%20%EB%B3%B5%EA%B5%AC.pdf)
 
 
 ### 스토리지 연결 방식 - DAS, NAS, SAN
